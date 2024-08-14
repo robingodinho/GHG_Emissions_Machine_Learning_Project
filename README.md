@@ -53,6 +53,13 @@ First, import the necessary Python modules by running the following code inside 
 
 [Python Modules](https://docs.google.com/document/d/1JXsXiXARiuieyRr1pcOgTKUUcToS5C_uHLnZj8XOnfw/edit?usp=sharing)
 
+## Code Files
+
+[Milestone 1 - Code](https://github.com/robingodinho/GHG_Emissions_Machine_Learning_Project/blob/f016f704bd58c0536c3309b304078f238f95f4bb/Code%20File/Milestone_1_Code.ipynb)
+
+[Milestone 2 - Code](https://github.com/robingodinho/GHG_Emissions_Machine_Learning_Project/blob/f016f704bd58c0536c3309b304078f238f95f4bb/Code%20File/Milestone_2_Code.ipynb)
+
+[Milestone 3 - Code](https://github.com/robingodinho/GHG_Emissions_Machine_Learning_Project/blob/f016f704bd58c0536c3309b304078f238f95f4bb/Code%20File/Milestone_3_Code.ipynb)
 
 ## Tech Stack
 
