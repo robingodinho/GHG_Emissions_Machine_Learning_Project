@@ -26,7 +26,7 @@ This project is used by the following students for academic research purposes:
 
 -Robin Godinho
 
--Sai Gangineni
+-Sai Ahbishek Gangineni
 
 -Martha Gonzalez
 
