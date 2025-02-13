@@ -12,7 +12,7 @@ Milestone 2: Linear Regression, Multivariate Regressions, Logistic Regression, N
 
 Milestone 3: Support Vector Regression (SVR), Neural Networks, Clustering, Comparative Anaylsis
 
-![Poster_Image](https://github.com/robingodinho/GHG_Emissions_Machine_Learning_Project/blob/8e806319e966be5ed18155eff90a174ec610675f/Reports/screenshot.webp)
+![Poster_Image](https://github.com/robingodinho/GHG_Emissions_Machine_Learning_Project/blob/dc9bb5dc4e0c131c4eb625c7fe726a73fee8faae/Reports/Godinho_Robin_Poster.pdf)
 
 ## Data Sources
  - [World Bank Group](https://data.worldbank.org/)
