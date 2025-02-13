@@ -20,15 +20,6 @@ Milestone 3: Support Vector Regression (SVR), Neural Networks, Clustering, Compa
  - [Climate Data Watch](https://www.climatewatchdata.org/)
 
 
-## Collaborators
-
-This project is used by the following students for academic research purposes:
-
--Robin Godinho
-
--Sai Ahbishek Gangineni
-
--Martha Gonzalez
 
 
 ## Documentation
@@ -64,6 +55,16 @@ First, import the necessary Python modules by running the following code inside 
 ## Tech Stack
 
 **Client:** Python, Jupter Notebook, Google Collab
+
+## Collaborators
+
+This project is used by the following students for academic research purposes:
+
+-Robin Godinho
+
+-Sai Ahbishek Gangineni
+
+-Martha Gonzalez
 
 
 
