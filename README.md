@@ -58,13 +58,9 @@ First, import the necessary Python modules by running the following code inside 
 
 ## Collaborators
 
-This project is used by the following students for academic research purposes:
+This project is used by the following student for academic research purposes:
 
 -Robin Godinho
-
--Sai Ahbishek Gangineni
-
--Martha Gonzalez
 
 
 
